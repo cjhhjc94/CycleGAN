@@ -1,0 +1,13 @@
+cycler==0.10.0
+kiwisolver==1.3.1
+matplotlib==3.4.3
+numpy @ file:///D:/bld/numpy_1629092210914/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+Pillow @ file:///C:/ci/pillow_1625663294916/work
+pyparsing==2.4.7
+python-dateutil==2.8.2
+six==1.16.0
+torch==1.9.0+cu102
+torchaudio==0.9.0
+torchvision==0.10.0+cu102
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1622748266870/work
